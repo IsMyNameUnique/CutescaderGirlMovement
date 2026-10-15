@@ -1,0 +1,666 @@
+[
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovement.Build.cs",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovement.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovement.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovementCharacter.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovementCharacter.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovementGameMode.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovementGameMode.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovementPlayerController.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/CuteGirlMovementPlayerController.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatAIController.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatAIController.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatEnemy.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatEnemy.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatEnemySpawner.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/CombatStateTreeUtility.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/AI/EnvQueryContext_Player.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Animation/AnimNotify_CheckCombo.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Animation/AnimNotify_DoAttackTrace.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/CombatCharacter.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/CombatCharacter.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/CombatGameMode.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/CombatGameMode.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/CombatPlayerController.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/CombatPlayerController.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatActivationVolume.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatCheckpointVolume.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatDamageableBox.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatDummy.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatDummy.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Gameplay/CombatLavaFloor.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Interfaces/CombatActivatable.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Interfaces/CombatActivatable.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Interfaces/CombatAttacker.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Interfaces/CombatAttacker.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Interfaces/CombatDamageable.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/Interfaces/CombatDamageable.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/UI/CombatLifeBar.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Combat/UI/CombatLifeBar.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/Animation/AnimNotify_EndDash.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/PlatformingCharacter.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/PlatformingCharacter.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/PlatformingGameMode.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/PlatformingGameMode.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/PlatformingPlayerController.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_Platforming/PlatformingPlayerController.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/AI/SideScrollingAIController.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/AI/SideScrollingNPC.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingPickup.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/Interfaces/SideScrollingInteractable.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingCameraManager.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingCameraManager.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingCharacter.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingCharacter.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingGameMode.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingGameMode.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingPlayerController.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/SideScrollingPlayerController.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/UI/SideScrollingUI.cpp",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/maple/Documents/Unreal Projects/CuteGirlMovement/Source/CuteGirlMovement/Variant_SideScrolling/UI/SideScrollingUI.h",
+		"arguments": [
+			"/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/maple/Documents/Unreal Projects/CuteGirlMovement/.vscode/compileCommands_Default/CuteGirlMovement.1.rsp"
+		],
+		"directory": "/mnt/Masterbooting/68090f9c-0848-4974-ae52-948998ee0859/UnrealEngine/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	}
+]

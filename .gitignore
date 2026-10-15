@@ -1,0 +1,15 @@
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+.andromity/
+
+# Operating system files
+.DS_Store
+Thumbs.db
